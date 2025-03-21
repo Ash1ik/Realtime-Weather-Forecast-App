@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/e28cd8a7-80dc-4bc2-a291-67876aaf48ab
 
 
 🚀 Features
+
 ✅ Real-Time API Integration – Fetch live weather data using OpenWeather API
 ✅ ViewModel & LiveData – Efficient state management and dynamic UI updates
 ✅ Navigation Component – Seamless screen transitions
@@ -17,6 +18,7 @@ https://github.com/user-attachments/assets/e28cd8a7-80dc-4bc2-a291-67876aaf48ab
 ✅ Git & GitHub – Version control and collaboration
 
 🛠️ Tech Stack
+
 Kotlin
 Jetpack Compose
 ViewModel & LiveData
@@ -25,6 +27,7 @@ Retrofit (for API calls)
 Git & GitHub (for version control)
 
 📌 How to Run
+
 Clone the repository:
 git clone https://github.com/YourGitHubUsername/WeatherApp.git
 Open the project in Android Studio
@@ -35,13 +38,13 @@ WEATHER_API_KEY=your_api_key_here
 Build and run the app on an emulator or a real device
 
 🌟 Future Improvements
+
 🔹 Implement dark mode support
 🔹 Improve error handling for API failures
 
-🎨 Figma UI Design
-Click here to view the UI Design
 
 📜 License
+
 This project is licensed under the MIT License.
 
 Made with ❤️ by Ashik Iqbal
