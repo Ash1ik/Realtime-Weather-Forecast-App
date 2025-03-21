@@ -77,7 +77,7 @@ Clone the repository:
 
 
 
-git clone https://github.com/YourGitHubUsername/WeatherApp.git
+git clone https://github.com/Ash1ik/Realtime-Weather-Forecast-App.git
 
 
 
